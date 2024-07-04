@@ -62,7 +62,7 @@ fun CardAbout(modifier: Modifier = Modifier) {
                     .padding(0.dp, 10.dp, 0.dp, 0.dp)
                     .clickable(
                         onClick = {
-                            uriHandler.openUri("https://github.com/Ium-Lab/Apk.1-Installer")
+                            uriHandler.openUri("https://github.com/NicolasCxy/ApkInstall")
                         },
                         interactionSource = remember { MutableInteractionSource() },
                         indication = rememberRipple(bounded = false),
@@ -79,7 +79,7 @@ fun CardAbout(modifier: Modifier = Modifier) {
                         modifier = Modifier.padding(20.dp, 0.dp, 0.dp, 0.dp)
                     )
                     Text(
-                        text = "Ium-Lab/Apk.1-Installer",
+                        text = "Ium-NicolasCxy/ApkInstall",
                         style = MaterialTheme.typography.bodySmall,
                         modifier = Modifier.padding(20.dp, 0.dp, 0.dp, 0.dp)
                     )
