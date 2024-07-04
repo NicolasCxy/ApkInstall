@@ -5,5 +5,5 @@
  - 在QQ或微信里点击文件 → 用其他应用打开 → Apk安装器 → 软件安装程序
  - 可直接安装，无需再次选择安装器
 #### 感谢
- - 参考**[Apk.1-Installer](https://www.example.com)**进行了一波完善，顺便练习一波)
+ - 参考[Apk.1-Installer](https://github.com/Ium-Lab/Apk.1-Installer)进行了一波完善，顺便练习一波)
  - 有问题请反馈到**Issues**，看到会及时修复
