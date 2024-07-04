@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_dark_blue">#1C1C34</color>
+    <color name="little_dark_blue">#212139</color>
+    <color name="model_text_color">#E8E8EA</color>
+    <color name="radio_text_color">#9392BA</color>
+    <color name="radio_gray_color">#87878F</color>
+    <color name="purple_text_color">#A8AEC4</color>
+    <color name="on_text_color">#868CA3</color>
+    <color name="start_yellow">#FFCD49</color>
+    <color name="center_yellow">#BD7F29</color>
+    <color name="end_yellow">#B9721F</color>
+    <color name="half_white">#88FFFFFF</color>
+    <color name="trans_white">#11FFFFFF</color>
+    <color name="back_top">#323D6A</color>
+    <color name="back_bottom">#272F4C</color>
+    <color name="down_button">#1E2954</color>
+    <color name="pop_background">#2D3863</color>
+    <color name="transparent">#00000000</color>
+    <color name="half_transparent">#88000000</color>
+    <color name="text_unclick">#4000</color>
+    <color name="trans_gray">#8887878F</color>
+    <color name="little_gray">#E2E2E2</color>
+    <color name="trans_gray_bg">#55000000</color>
+    <color name="red">#FF0000</color>
+    <color name="new_background">#212C71</color>
+    <color name="new_text_background">#2F3D93</color>
+    <color name="new_edittext_background">#27337E</color>
+    <color name="fragment_text">#8A9AD6</color>
+    <color name="tab_background">#3E50B4</color>
+    <color name="update_text">#498AE8</color>
+    <color name="light_start">#bbfdde0a</color>
+    <color name="light_end">#00fdffce</color>
+    <color name="purple">#99caa9c8</color>
+    <color name="data_screen_red">#DE3A3A</color>
+    <!--语音控制弹框颜色-->
+    <color name="default_blue">#17A05D</color>
+    <color name="choose_red">#a00000</color>
+    <color name="decount_yellow">#D64D37</color>
+
+    <color name="scroll_bar_bg">#586995</color>
+
+    <!--新色调-->
+    <color name="title_background">#FF23223A</color>
+    <color name="title_shadow">#33000000</color>
+    <color name="main_left_background">#FF222138</color>
+    <color name="main_right_background">#0F0E21</color>
+    <color name="main_search_text">#FF777993</color>
+    <color name="main_search_background">#1D1C34</color>
+    <color name="main_list_background">#FF282640</color>
+    <color name="main_list_background_select">#FF454164</color>
+    <color name="main_list_textcolor">#FF24ECFF</color>
+    <color name="main_list_scroll">#FF3C3B54</color>
+    <color name="holo_list_button">#FF333354</color>
+    <color name="holo_iteration_button">#FF24A2FF</color>
+    <color name="holo_iteration_text">#FF70FCE4</color>
+    <color name="holo_spinner_background">#1B1A35</color>
+    <color name="holo_spinner_drop_background">#282743</color>
+    <color name="holo_spinner_drop_choose">#49496B</color>
+    <color name="holo_exit_text">#FF3D4059</color>
+    <color name="audio_set_bg">#263238</color>
+    <color name="green">#00cc00</color>
+    <color name="yellow">#ff9900</color>
+    <color name="expert_gray_background">#bb000000</color>
+
+    <!--录播-->
+    <color name="record_default">#3A50A5</color>
+    <color name="record_choosed">#323D6A</color>
+    <color name="record_camera_back">#141B67</color>
+    <color name="record_red_text">#D53D2A</color>
+
+    <!--新配色-->
+    <color name="background_default">#FF071431</color>
+    <color name="trand_background_default">#99071431</color>
+    <color name="scrollbar_background">#FF6D6BAB</color>
+    <color name="main_text">#FF76ECFB</color>
+    <color name="main_certain">#FF24546D</color>
+    <color name="live_red">#88F95965</color>
+    <color name="live_green">#8800C38F</color>
+    <color name="live_gray">#88676767</color>
+    <color name="trans_cyan">#3376ecfb</color>
+    <color name="dialog_bg">#283551</color>
+    <color name="gray_cover">#0B1D3F</color>
+
+    <!--哈工程UI-->
+    <color name="choosed_orange">#FE8800</color>
+    <color name="scrollbar_blue">#264069</color>
+    <color name="midlle_gray_text">#515F6D</color>
+    <color name="spinner_select">#324490</color>
+    <color name="color_page_model">#90C2DB</color>
+
+    <color name="single_switch_select">#76ECFB</color>
+
+
+    <!--改版-->
+    <color name="light_blue">#76ECFB</color>
+    <color name="list_blue">#06E9FF</color>
+    <color name="list_green">#00FF9D</color>
+    <color name="list_backgroud">#0D5FC0D3</color>
+    <color name="cyan_default">#5FC0D3</color>
+    <color name="warn_bell">#FAAD14</color>
+    <color name="color_resource_type_a">#6786EC</color>
+    <color name="color_resource_type_b">#26A057</color>
+    <color name="color_resource_type_c">#3EA1CF</color>
+    <color name="color_resource_type_u">#DD832C</color>
+</resources>
